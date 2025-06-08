@@ -1,7 +1,8 @@
 # Coffee-chain-sales-dashboard
 
 ## Overview
-This project involves the creation of an interactive dashboard using Tableau to analyze and visualize sales and profit performance for a coffee retail chain. 
+This project involves the creation of an interactive dashboard using Tableau to analyze and visualize sales and profit performance for a coffee retail chain.
+
 The goal was to help business stakeholders monitor key performance indicators (KPIs), identify trends, and make informed decisions.
 
 ## Objectives
@@ -12,7 +13,9 @@ The goal was to help business stakeholders monitor key performance indicators (K
 
 ## Files included
 <a href="https://github.com/Kavya-Rajeev/Coffee-chain-sales-dashboard/blob/main/Coffee_Chain_Sales%20.csv">Coffee_Chain_Sales.csv </a>- Dataset used for analysis
+
 <a href="https://github.com/Kavya-Rajeev/Coffee-chain-sales-dashboard/blob/main/coffee%20sales.twb" coffee sales.twb </a>- Tableau Script containing charts and dashboard
+
 <a href="https://github.com/Kavya-Rajeev/Coffee-chain-sales-dashboard/blob/main/Coffee_chain_sales.pptx" Coffee_chain_sales.pptx </a>- PPT summary of key insights
 
 ## Key Features
